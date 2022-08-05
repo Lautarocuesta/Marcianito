@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 20px;
+  border-image-slice: 30px;
+  
+  background-image: linear-gradient(
+    43deg,
+    #563ab4 0%,
+    #2eb65c 46%,
+    #23fdf2 58%,
+    #4588fc 100%
+  );
+  width: 250px;
+  height: 190px;
+  float: left;
+  padding: 0px;
+  margin: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 8px 24px;
+}
+
+body {
+  background: red;
+  background-image: url("https://img.freepik.com/foto-gratis/fondo-acuarela-pintada-mano-forma-cielo-nubes_24972-1095.jpg?w=996&t=st=1659707822~exp=1659708422~hmac=577e5f55131934929cb020a37a9c65800d6eebb78f9d627063d63429daec8687");
+  background-repeat: round;
+  width: width;
+  height: 1000px;
+}
